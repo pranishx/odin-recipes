@@ -1,3 +1,3 @@
-# Here we going to create a recipes app using html 
+# Here going to build a recipes app using html 
 
- - we are add multiple html files  
+ - going add multiple html files  
