@@ -1,0 +1,24 @@
+#odin-heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-size: 40px;
+}
+
+
+.links {
+    background-color: aquamarine;
+    font-weight: 600;
+    color: darkcyan;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.grilled {
+    background-color: antiquewhite;
+    color: black;
+}
